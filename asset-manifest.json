@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Concurso-de-Poesia-lvlUp/static/css/main.cccbf271.css",
+    "main.js": "/Concurso-de-Poesia-lvlUp/static/js/main.3bcafa2d.js",
+    "index.html": "/Concurso-de-Poesia-lvlUp/index.html",
+    "main.cccbf271.css.map": "/Concurso-de-Poesia-lvlUp/static/css/main.cccbf271.css.map",
+    "main.3bcafa2d.js.map": "/Concurso-de-Poesia-lvlUp/static/js/main.3bcafa2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cccbf271.css",
+    "static/js/main.3bcafa2d.js"
+  ]
+}
